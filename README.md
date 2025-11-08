@@ -22,4 +22,4 @@ Sistema de investigação de casos para detetives.
 
 ## Autor
 
-[Seu Nome]
+[Victor Hugo]
